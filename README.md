@@ -99,5 +99,5 @@ sysopctl --version
 To use the `sysopctl` command, run it in your terminal followed by the desired subcommand and options. For example:
 ```bash
 sysopctl service list
-
+![alt text](https://github.com/Adarsh71002/Task2/blob/master/img.png)
 
